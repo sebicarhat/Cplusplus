@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1418440544 source:d:\c++\infoarena\ciur\main.cpp
+	<fstream>
+	<iostream>
+

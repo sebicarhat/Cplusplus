@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1457089325 source:c:\users\sebi\documents\c++\parcurgere dfs - componente conexe\main.cpp
+	<fstream>
+	<bitset>
+	<vector>
+

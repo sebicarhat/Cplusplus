@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1429008712 source:c:\users\sebi\documents\c++\!!\main.cpp
+	<iostream>
+	<string.h>
+	<cstdlib>
+
+1429008772 source:d:\c++\proiecte\encryption\main.cpp
+	<iostream>
+	<string.h>
+	<cstdlib>
+

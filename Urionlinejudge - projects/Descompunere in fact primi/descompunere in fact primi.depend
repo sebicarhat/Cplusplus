@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1393500812 source:c:\users\seby\desktop\proiecte\sumdiv\main.cpp
+	<iostream>
+	<fstream>
+	<math.h>
+

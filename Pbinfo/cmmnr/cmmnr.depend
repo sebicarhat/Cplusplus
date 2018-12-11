@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1449775508 source:c:\users\sebi\documents\c++\cmmnr\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+

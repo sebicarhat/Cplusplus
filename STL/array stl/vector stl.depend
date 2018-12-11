@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1417805875 source:c:\users\sebi\documents\c++\vector stl\main.cpp
+	<iostream>
+	<vector>
+
+1418337259 source:d:\c++\stl\vector stl\main.cpp
+	<iostream>
+	<vector>
+
+1418338197 source:e:\c++\proiecte\stl\vector stl\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+

@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1415377759 source:c:\users\seby\desktop\ds\main.cpp
+	<iostream>
+	<string.h>
+	<ctype.h>
+	<stdio.h>
+
+1416180103 source:c:\users\sebi\documents\c++\ds\main.cpp
+	<iostream>
+	<string.h>
+	<ctype.h>
+	<stdio.h>
+
+1416180103 source:c:\users\sebi\documents\c++\!ds\main.cpp
+	<iostream>
+	<string.h>
+	<ctype.h>
+	<stdio.h>
+

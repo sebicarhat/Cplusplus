@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1417891841 source:c:\users\sebi\documents\c++\stl2\main.cpp
+	<iostream>
+	<vector>
+
+1418340615 source:d:\c++\stl\stl - citire si afisare\main.cpp
+	<vector>
+	<list>
+	<map>
+	<set>
+	<queue>
+	<deque>
+	<string>
+	<algorithm>
+	<iterator>
+	<iostream>
+	<cassert>
+
+1418359828 source:e:\c++\proiecte\stl\stl - citire si afisare\main.cpp
+	<vector>
+	<list>
+	<map>
+	<set>
+	<queue>
+	<deque>
+	<string>
+	<algorithm>
+	<iterator>
+	<iostream>
+	<cassert>
+

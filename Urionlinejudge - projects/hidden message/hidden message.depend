@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1420214868 source:c:\users\sebi\documents\c++\hidden message\main.cpp
+	<iostream>
+	<string.h>
+

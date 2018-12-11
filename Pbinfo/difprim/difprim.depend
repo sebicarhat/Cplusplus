@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1412139557 source:c:\users\seby\desktop\difprim\main.cpp
+	<iostream>
+	<fstream>
+	<math.h>
+

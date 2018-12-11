@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1396086631 source:d:\c++\codechef\turbo sort\main.cpp
+	<iostream>
+	<algorithm>
+
+1396086631 source:e:\c++\proiecte\codechef\turbo sort\main.cpp
+	<iostream>
+	<algorithm>
+

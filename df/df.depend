@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1449413032 source:c:\users\sebi\documents\c++\df\main.cpp
+	<iostream>
+	<queue>
+
+1449413342 source:e:\c++\proiecte\diverse\df\main.cpp
+	<iostream>
+	<queue>
+
